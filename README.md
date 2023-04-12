@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1660415347/60611/waving-hand.gif?1660415347" height="30px"> Hi, I'm Nuwan! <img src="https://emojis.slackmojis.com/emojis/images/1620870914/38455/pet-cat.gif?1620870914" height="30px">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1660415347/60611/waving-hand.gif?1660415347" height="30px"> Hi, I'm Nuwan! <img src="https://emojis.slackmojis.com/emojis/images/1658822674/60208/spiffo_code.png?1658822674" height="30px">
  </h1>
 
 ### 📬 Find me at
@@ -8,4 +8,4 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16582591/iamnwn)](https://stackoverflow.com/users/16582591/iamnwn)
 
 ## ⚡️ A Few Quick Facts
-- 🌱 I’m currently learning Java ☕
+- I’m currently learning Java ☕
