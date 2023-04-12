@@ -2,7 +2,7 @@
  </h1>
 
 ### 📬 Find me at
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/iamnwn?style=flat-square&logo)](https://twitter.com/iamnwn)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/iamnwn?style=social)](https://twitter.com/iamnwn)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/iamnwn/)](https://github.com/iamnwn/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamnwn/)](https://www.linkedin.com/in/iamnwn)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16582591/iamnwn)](https://stackoverflow.com/users/16582591/iamnwn)
